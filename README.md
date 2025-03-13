@@ -47,7 +47,6 @@
 
 ## 📫 联系方式
 
-- Telegram: [@devopswang](https://t.me/devopswang)
 - Email: itadminlx@163.com
 
 ## 🏆 工作经历
